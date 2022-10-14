@@ -1,0 +1,27 @@
+USE users;
+
+INSERT INTO users (name) VALUES ("Harriett Malson");
+INSERT INTO users (name) VALUES ("Danille Casebeer");
+INSERT INTO users (name) VALUES ("Kelley Prest");
+INSERT INTO users (name) VALUES ("Vaughn Mank");
+INSERT INTO users (name) VALUES ("Georgie Goldhaber");
+INSERT INTO users (name) VALUES ("May Brandsrud");
+INSERT INTO users (name) VALUES ("Alysa Yanez");
+INSERT INTO users (name) VALUES ("Leta Fennimore");
+INSERT INTO users (name) VALUES ("Julius Lafuze");
+INSERT INTO users (name) VALUES ("Isaias Desola");
+INSERT INTO users (name) VALUES ("Kyle Fahlsing");
+INSERT INTO users (name) VALUES ("Art Magil");
+INSERT INTO users (name) VALUES ("Trey Dougherty");
+INSERT INTO users (name) VALUES ("Dian Drought");
+INSERT INTO users (name) VALUES ("Sung Spinas");
+INSERT INTO users (name) VALUES ("Grady Mosseri");
+INSERT INTO users (name) VALUES ("Daysi Sostre");
+INSERT INTO users (name) VALUES ("Rosita Dicke");
+INSERT INTO users (name) VALUES ("Celia Crannell");
+INSERT INTO users (name) VALUES ("Leatrice Perze");
+INSERT INTO users (name) VALUES ("Dorie Coolman");
+INSERT INTO users (name) VALUES ("Keith Ziesemer");
+INSERT INTO users (name) VALUES ("Dirk Vigilo");
+INSERT INTO users (name) VALUES ("Eliseo Hersman");
+INSERT INTO users (name) VALUES ("Mora Armiger");
