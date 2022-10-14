@@ -1,11 +1,11 @@
 version: "3"
 services:
-  employee-jdbc:
+  userapi:
     build: .
     ports:
       - "8080:8080"
     networks:
-      - employee-mysql
+      - user-mysql
     depends_on:
       - mysqldb
     restart: on-failure
@@ -13,10 +13,10 @@ services:
   mysqldb:
     image: mysql:8
     networks:
-      - employee-mysql
+      - user-mysql
     environment:
       - MYSQL_ROOT_PASSWORD=root
       - MYSQL_DATABASE=users
 
 networks:
-  employee-mysql: 
+  user-mysql: 
